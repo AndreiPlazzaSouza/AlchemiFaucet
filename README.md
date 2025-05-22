@@ -1,5 +1,5 @@
 
-# AlchemiFaucet
+# Alchemi Faucet
 
 **AlchemiFaucet** is a Python automation tool designed to streamline the process of claiming Sepolia ETH from the [Alchemy Sepolia Faucet](https://www.alchemy.com/faucets/ethereum-sepolia).  
 It leverages browser automation to interact with the faucet, making it easy to schedule regular claims for development and testing purposes.
